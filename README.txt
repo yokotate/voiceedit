@@ -10,7 +10,7 @@
 ・ANACONDA NAVIGATOR
 ・Tensorflow-gpu
 ・keras-gpu
+・pydub
 ・pyaudio
-・wave
 
 5/27　作成開始
